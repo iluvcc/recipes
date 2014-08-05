@@ -1,0 +1,4 @@
+-[] Complete full description
+-[] Add preparation time
+-[] Add all ingredients
+-[] Include coooking steps
